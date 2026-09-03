@@ -1,6 +1,7 @@
 <p align="center">
   <img width="100%" alt="download" src="https://github.com/user-attachments/assets/7a14dff2-9ccc-4304-88b4-be456fbe80e4" />
 </p>
+
 # Cyclistic-Customer-Behavior
 
 ##  Project Overview
