@@ -1,4 +1,6 @@
-<img width="403" height="270" alt="download" src="https://github.com/user-attachments/assets/7a14dff2-9ccc-4304-88b4-be456fbe80e4" />
+<p align="center">
+  <img width="600" height="300" alt="download" src="https://github.com/user-attachments/assets/7a14dff2-9ccc-4304-88b4-be456fbe80e4" />
+</p>
 
 # Cyclistic-Customer-Behavior
 
